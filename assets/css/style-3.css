@@ -52,6 +52,7 @@ h2 {
     letter-spacing: -2px;
     font-size:var(--fs-xxl);
     margin-bottom: 4px;
+    color: blue;
 }
 
 h3 {
